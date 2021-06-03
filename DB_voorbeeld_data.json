@@ -1,0 +1,40 @@
+{ "data": {
+        "gebruiker": [
+            { 
+                "gebruikersId":1,
+                "gebruikersnaam": "bart",
+                "wachtwoord": "klant",
+                "voornaam": "Bart",
+                "achternaam": "Jansen",
+                "gebruikersGroup": "klant"
+            },
+            {
+                "gebruikersId":2,
+                "gebruikersnaam": "sofie",
+                "wachtwoord": "service",
+                "voornaam": "Sofie",
+                "achternaam": "de Vries",
+                "gebruikersGroup": "service"
+            },
+            {
+                "gebruikersId":3,
+                "gebruikersnaam":"tim",
+                "wachtwoord": "monteur",
+                "voornaam": "Tim",
+                "achternaam": "Bakker",
+                "gebruikersGroup": "monteur"
+            }
+        ]
+    },
+
+        "klant": [
+        {
+            "klantnr": 3002,
+            "bedrijfsnaam": "Keus Schoonmaak",
+            "adres": "Tweedestraat 10, Apeldoorn",
+            "telefoon": "055 9865412",
+            "email": "info@keuschoonmaak.nl"
+        }
+        ]
+
+}
