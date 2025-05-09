@@ -15,7 +15,7 @@ De ServiceApplicatie is ontworpen als een proof-of-concept waarin basisfunctiona
 
 ## Gebruikte technologieën
 
-- Taal: PHP, JS, JQuery
+- Taal: PHP, html, css, JS, JQuery
 
 ## Installatie
 
